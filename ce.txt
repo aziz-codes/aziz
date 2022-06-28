@@ -1,0 +1,93 @@
+    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="icon-box">
+            <div class="icon"><i class='bx bxl-react'></i></div>
+            <h4><a href="">React JS</a></h4>
+            <p>Development of front end of the website using modern JS framework React JS</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bxl-javascript"></i></div>
+            <h4><a href="">Next JS</a></h4>
+            <p>Development of website using the most popular React JS framework Next JS</p>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+          <section id="services" class="services">
+    <div class="container">
+
+      <div class="section-title">
+        <h2>Services</h2>
+        <p>My Services</p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bxl-html5"></i></div>
+            <h4><a href="">HTML5 + CSS</a></h4>
+            <p>Building responsive and attractive web pages in HTML5 and css</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="icon-box">
+            <div class="icon"><i class='bx bxl-react'></i></div>
+            <h4><a href="">React JS</a></h4>
+            <p>Development of front end of the website using modern JS framework React JS</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+          <div class="icon-box">
+            <div class="icon"><i class="bx bxl-javascript"></i></div>
+            <h4><a href="">Next JS</a></h4>
+            <p>Development of website using the most popular React JS framework Next JS</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+          <div class="icon-box">
+            <div class="icon"><i class='bx bxl-php'></i></div>
+            <h4><a href="">PHP</a></h4>
+            <p>Building full stack website using HTML5, CSS, PHP, SQL & JS</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+          <div class="icon-box">
+            <div class="icon"><i class='bx bxl-bootstrap'></i></div>
+            <h4><a href="">Bootstrap</a></h4>
+            <p>Development of website using bootstrap with @3,4 & Beta</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+          <div class="icon-box">
+            <div class="icon"><i class='bx bxl-tailwind-css'></i></div>
+            <h4><a href="">Tailwind CSS</a></h4>
+            <p>Building the front end of website using the most popular CSS framework Tailwind-CSS</p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+          <div class="icon-box">
+            <div class="icon"><i class='bx bxs-data'></i></div>
+            <h4><a href="">SQL</a></h4>
+            <p>Design of database in MYSQL to store huge amount of data in an efficient mannner</p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Services Section -->
